@@ -4,7 +4,7 @@
 ##
 ## Hello, I am Çiçek Akkaya, Junior Data Scientist and Agricultural Engineer.
 ## I have made this project within the scope of the Project Building Workshop I attended after I applied for the Patika.dev internship, 2025.
-## She generated smart contract which for using Blockchain applications.
+## She generated a smart contract for using Blockchain applications.
 ##
 ## [TUR]
 ##
